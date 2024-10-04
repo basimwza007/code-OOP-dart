@@ -17,9 +17,6 @@ abstract class NotYetGreet  implements Greeting{
 }
 
 class Greet extends NotYetGreet {
-  void thai();
-  void english();
-  void japan();
 }
 
 void main(List<String> args) {
